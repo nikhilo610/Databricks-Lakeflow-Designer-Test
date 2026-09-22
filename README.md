@@ -1,7 +1,7 @@
 # Databricks-Lakeflow-Designer-Test
 
 Synthetic school data for Databricks Lakeflow Designer testing
-- trying different joins within Designer to see which pop up errors + which get blocked by setting up the guardrail operator
+- Trying different joins within Designer to see which pop up errors + which get blocked by setting up the guardrail operator
 
 Files:
 - students.csv: 30 students with grade level and homeroom.
